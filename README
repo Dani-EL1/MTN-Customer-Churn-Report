@@ -1,0 +1,61 @@
+
+# 📊 MTN Nigeria Customer Churn Intelligence Report – Q1 2025 (Recreated)
+
+## 🧭 Overview
+
+This project is a full **recreation** of an MTN Nigeria Customer Churn Analysis originally by Oluwademilade Adeniyi.
+
+Inspired by that work, I used Excel to build an interactive dashboard and conducted exploratory churn analysis using synthetic customer data based on real-world MTN Nigeria plans and devices.
+
+The final result includes a clean dashboard, key insights, a comprehensive report, and actionable recommendations.
+
+> 🔗 [Original Project](https://www.linkedin.com/posts/demibolt_mtnnigeria-dataanalytics-datafam-activity-7318936345249300480-Sga3)
+
+> 📁 [My Portfolio Post for this Project](https://www.datascienceportfol.io/olalereayomide2000/projects/6)
+
+---
+
+## 📂 Project Resources
+
+- 📦 **Raw Dataset (Unmodified)**  
+  [Google Drive Link](https://drive.google.com/file/d/1eLmzLe78Kw58QLMqfjTMpE8F6ZDV64nL/view?usp=sharing)
+
+- 🧾 **Final Report (PDF)**  
+  [Google Drive Link](https://drive.google.com/file/d/1laRfi4IrFXLfZ29a1FFhEWRnaPb-2zEL/view?usp=sharing)
+
+- 📸 **Screenshot of Dashboard**  
+  [Google Drive Link](https://drive.google.com/file/d/1S4MlBjpTTgmP_b2bb5Q7TrAJgwI_1Bja/view?usp=sharing)
+
+---
+
+## 🔍 Project Highlights
+
+- Churn trends by device, gender, and age
+- Revenue analysis by plan
+- Churn reason segmentation
+- Geo-distribution using Excel’s map chart
+- Insights and recommendations for retention
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel  
+- PivotTables & Slicers  
+- Data Cleaning & Transformation  
+- Dashboard Visualization  
+
+---
+
+## 🙌 Credits & Acknowledgments
+
+- **Original Creator**: Oluwademilade Adeniyi  
+- **Recreated By**: Ayomide Olalere  
+- **Tools Used**: Microsoft Excel  
+- **Data**: Synthetic dataset based on MTN eShop
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/olalereayomide2000/)
